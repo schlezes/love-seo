@@ -1,0 +1,56 @@
+/*start here for any new css3*/
+/*triadic colors*/
+/* -moz-viewport {
+	scale: 1.0;
+	width: device-width;
+} */
+/* -ms-viewport {
+	scale: 1.0;
+	width: device-width;
+} */
+/* -o-viewport {
+	scale: 1.0;
+	width: device-width;
+} */
+/* -webkit-viewport {
+	scale: 1.0;
+	width: device-width;
+} */
+/* viewport {
+	scale: 1.0;
+	width: device-width;
+} */
+nav {
+    text-align: center;
+}
+.twoContainer {
+	background-color: #181bdd48;
+	border-radius: 10px;
+}
+.button {
+	color: green;
+	display: inline-block;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 1%;
+}
+.thirdContainer {
+	background-color: transparent;
+	padding-top: 0%;
+}
+.fourthContainer {
+	background-color: #0a139680;
+	border-radius: 10px;
+}
+.fifthContainer {
+	background-color: transparent;
+}
+.sixthContainer {
+	background-color: #1636eb67;
+	border-radius: 10px;
+}
+footer {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+}
